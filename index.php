@@ -5,15 +5,15 @@
 	<title>To Do Application</title>
 	<link href="https://fonts.googleapis.com/css?family=Spectral+SC" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light|Spectral+SC" rel="stylesheet">
-	<link rel="stylesheet" href="main.css">
+	<link rel="stylesheet" href="css/styles.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 	<div class="list">
-		<h1 class="header">To do List</h1>
-		<ul class="items">
+		<h1 class="heading">To do List</h1>
+		<ul class="todos">
 			<li>
-				<span class="item">Do HackerRank lesson</span>
+				<span class="todo">Do HackerRank lesson</span>
 				<a href="#" class="done-button">Done</a>
 			</li>
 			<li>
