@@ -5,8 +5,8 @@ body {
 .list {
     background: whitesmoke;
     width: 100%;
-    margin: 10em auto;
-    max-width: 600px;
+    margin: 5em auto;
+    max-width: 400px;
     padding: 30px;
     border-radius: 2px;
     box-shadow: 3px 3px 0 rgba(0,0,0, .2);
